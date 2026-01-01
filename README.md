@@ -1,71 +1,40 @@
 ## Hi, I'm Shivam 👋  
-
-Backend-leaning full-stack developer who enjoys building **scalable systems**, designing **clean architectures**, and understanding how things work under the hood.
-
-I learn by building real projects — not just tutorials — and I care deeply about **system design, cloud infrastructure, and performance**.
-
----
-
-### 🚀 What I’m working on
-- Designing backend-heavy applications with **Node.js & Next.js**
-- Exploring **AWS cloud architecture** (EC2, S3, IAM, VPC, load balancing)
-- Building projects that showcase **real-world engineering decisions**
-- Preparing for **open-source contributions (GSoC path)**
+<h2 align="center">Hi, I'm Shivam 👋</h2>
+<p align="center">
+Backend-leaning Full-Stack Developer • Cloud & System Design Enthusiast
+</p>
 
 ---
 
-### 🧠 Tech Stack
-**Languages**
-- JavaScript / TypeScript  
-- SQL  
-
-**Backend**
-- Node.js, Express  
-- REST APIs, Auth, Webhooks  
-- Redis, BullMQ (queues & background jobs)
-
-**Frontend**
-- React, Next.js  
-- Tailwind CSS, shadcn/ui  
-
-**Databases**
-- PostgreSQL  
-- MongoDB  
-
-**Cloud & DevOps**
-- AWS (EC2, S3, IAM, VPC basics)  
-- Docker (learning)  
-- Linux & shell fundamentals  
+### 🧠 About Me
+- Build backend-heavy, real-world applications  
+- Focused on **Node.js, Next.js, AWS & system design**
+- Learning by building, not copying tutorials
 
 ---
 
-### 🧩 Things I care about
-- System design over fancy UI  
-- Understanding *why* something works, not just *how*  
-- Writing maintainable, readable code  
-- Learning cloud & infrastructure properly (not just certs)
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,postgres,mongodb,redis,aws,docker,linux" />
+</p>
 
 ---
 
-### 🌱 Currently learning
-- Advanced backend patterns  
-- Distributed systems basics  
-- AWS architecture & deployment strategies  
-- Data Structures & Algorithms (slowly, properly)
+### 🚀 Currently
+- Preparing for **Open Source (GSoC path)**
+- Learning **AWS architecture & distributed systems**
+- Strengthening **backend patterns & infra thinking**
 
 ---
 
-### 🤝 Open to
-- Open-source contributions  
-- Backend-focused collaborations  
-- Learning from people better than me
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MEWtinator267&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEWtinator267&hide_border=true" height="150"/>
+</p>
 
 ---
 
-### 📫 Reach me
-- GitHub: you’re already here 🙂
-- LinkedIn: *(add your LinkedIn once ready)*
-
----
-
-> *“Projects > tutorials. Understanding > memorizing.”*
+<p align="center">
+<em>Projects > Tutorials • Understanding > Memorizing</em>
+</p>
