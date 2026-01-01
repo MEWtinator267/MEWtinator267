@@ -6,9 +6,8 @@ MERN Stack Developer • Backend-Focused • Cloud & System Design
 ---
 
 ### 🧠 About Me
-- Build backend-heavy, real-world applications  
-- Strong with **JavaScript, MERN & AWS**
-- Interested in **system design & scalable architectures**
+Full-stack dev with strong backend instincts.  
+I build real applications with **MERN + AWS** and focus on clean code, scalable architecture, and practical engineering.
 
 ---
 
@@ -19,18 +18,15 @@ MERN Stack Developer • Backend-Focused • Cloud & System Design
 
 ---
 
-### 🚀 Currently
-- Preparing for **Open Source (GSoC path)**
-- Learning **AWS architecture & backend patterns**
-- Improving **scalability, queues & infra thinking**
+### 🚀 I’m Currently
+- Strengthening backend & system design
+- Building scalable MERN apps
+- Exploring AWS infrastructure & real deployments
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEWtinator267&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEWtinator267&hide_border=true" height="150"/>
-</p>
+### 📌 Pinned Projects
+*(Check the pinned repos below 👇)*
 
 ---
 
