@@ -1,16 +1,71 @@
-## Hi there 👋
+## Hi, I'm Shivam 👋  
 
-<!--
-**MEWtinator267/MEWtinator267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-leaning full-stack developer who enjoys building **scalable systems**, designing **clean architectures**, and understanding how things work under the hood.
 
-Here are some ideas to get you started:
+I learn by building real projects — not just tutorials — and I care deeply about **system design, cloud infrastructure, and performance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m working on
+- Designing backend-heavy applications with **Node.js & Next.js**
+- Exploring **AWS cloud architecture** (EC2, S3, IAM, VPC, load balancing)
+- Building projects that showcase **real-world engineering decisions**
+- Preparing for **open-source contributions (GSoC path)**
+
+---
+
+### 🧠 Tech Stack
+**Languages**
+- JavaScript / TypeScript  
+- SQL  
+
+**Backend**
+- Node.js, Express  
+- REST APIs, Auth, Webhooks  
+- Redis, BullMQ (queues & background jobs)
+
+**Frontend**
+- React, Next.js  
+- Tailwind CSS, shadcn/ui  
+
+**Databases**
+- PostgreSQL  
+- MongoDB  
+
+**Cloud & DevOps**
+- AWS (EC2, S3, IAM, VPC basics)  
+- Docker (learning)  
+- Linux & shell fundamentals  
+
+---
+
+### 🧩 Things I care about
+- System design over fancy UI  
+- Understanding *why* something works, not just *how*  
+- Writing maintainable, readable code  
+- Learning cloud & infrastructure properly (not just certs)
+
+---
+
+### 🌱 Currently learning
+- Advanced backend patterns  
+- Distributed systems basics  
+- AWS architecture & deployment strategies  
+- Data Structures & Algorithms (slowly, properly)
+
+---
+
+### 🤝 Open to
+- Open-source contributions  
+- Backend-focused collaborations  
+- Learning from people better than me
+
+---
+
+### 📫 Reach me
+- GitHub: you’re already here 🙂
+- LinkedIn: *(add your LinkedIn once ready)*
+
+---
+
+> *“Projects > tutorials. Understanding > memorizing.”*
