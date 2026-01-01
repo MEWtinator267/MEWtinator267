@@ -1,29 +1,28 @@
-## Hi, I'm Shivam 👋  
 <h2 align="center">Hi, I'm Shivam 👋</h2>
 <p align="center">
-Backend-leaning Full-Stack Developer • Cloud & System Design Enthusiast
+MERN Stack Developer • Backend-Focused • Cloud & System Design
 </p>
 
 ---
 
 ### 🧠 About Me
 - Build backend-heavy, real-world applications  
-- Focused on **Node.js, Next.js, AWS & system design**
-- Learning by building, not copying tutorials
+- Strong with **JavaScript, MERN & AWS**
+- Interested in **system design & scalable architectures**
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,postgres,mongodb,redis,aws,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,redis,aws,docker,linux" />
 </p>
 
 ---
 
 ### 🚀 Currently
 - Preparing for **Open Source (GSoC path)**
-- Learning **AWS architecture & distributed systems**
-- Strengthening **backend patterns & infra thinking**
+- Learning **AWS architecture & backend patterns**
+- Improving **scalability, queues & infra thinking**
 
 ---
 
@@ -36,5 +35,5 @@ Backend-leaning Full-Stack Developer • Cloud & System Design Enthusiast
 ---
 
 <p align="center">
-<em>Projects > Tutorials • Understanding > Memorizing</em>
+<em>Projects > Tutorials • Systems > Buzzwords</em>
 </p>
